@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "HOPE",
+  "base_artist": "NF",
+  "createdAt": "2025-12-25T03:08:41.731578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Hope (feat. Charlie Puth)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/01_I_Hope_(feat._Charlie_Puth)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Hope You’re Happy Now",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/02_I_Hope_You’re_Happy_Now_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hope It's Hot Out",
+      "artist": "Kyle Clark",
+      "has_synced": true,
+      "path": "select/03_Hope_It's_Hot_Out_Kyle_Clark.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hope It's Hot Out",
+      "artist": "Kyle Clark",
+      "has_synced": true,
+      "path": "select/04_Hope_It's_Hot_Out_Kyle_Clark.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hope You're Feelin' Me (Like I'm Feelin' You)",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/05_Hope_You're_Feelin'_Me_(Like_I'm_Feelin'_You)_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hope the High Road",
+      "artist": "Jason Isbell and the 400 Unit",
+      "has_synced": true,
+      "path": "select/06_Hope_the_High_Road_Jason_Isbell_and_the_400_Unit.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Hope",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/07_I_Hope_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Hope",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/08_I_Hope_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Hope Heaven Has a Honky Tonk",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/09_I_Hope_Heaven_Has_a_Honky_Tonk_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Hope Heaven Has a Honky Tonk (LP Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/10_I_Hope_Heaven_Has_a_Honky_Tonk_(LP_Version)_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Hope She's Drinkin' Tonight",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/11_I_Hope_She's_Drinkin'_Tonight_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Hope You Dance",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/12_I_Hope_You_Dance_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Hope You Dance - Album Version Radio Edit",
+      "artist": "Lee Ann Womack",
+      "has_synced": false,
+      "path": "select/13_I_Hope_You_Dance_-_Album_Version_Radio_Edit_Lee_Ann_Womack.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lord, I Hope This Day Is Good",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/14_Lord,_I_Hope_This_Day_Is_Good_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lord I Hope This Day Is Good",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/15_Lord_I_Hope_This_Day_Is_Good_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lord, I Hope This Day Is Good",
+      "artist": "Caylee Hammack feat. Alan Jackson",
+      "has_synced": true,
+      "path": "select/16_Lord,_I_Hope_This_Day_Is_Good_Caylee_Hammack_feat._Alan_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOPE",
+      "artist": "NF",
+      "has_synced": false,
+      "path": "select/pl_01_HOPE_NF.txt"
+    }
+  ]
+}
